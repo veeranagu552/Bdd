@@ -1,0 +1,703 @@
+08:28:31.873 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+08:28:31.882 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+08:28:37.509 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+08:28:37.509 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+08:28:40.516 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking one way button
+08:28:40.731 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:40.733 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking source text field
+08:28:40.734 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:41.255 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+08:28:41.255 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting source
+08:28:41.320 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking destination
+08:28:41.320 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:41.422 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+08:28:41.422 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting destination
+08:28:41.664 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking departure date field
+08:28:41.774 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:41.775 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 01-November-2020
+08:28:41.776 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:28:41.833 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:28:41.851 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:28:41.966 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:41.983 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:28:42.055 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:42.070 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : November 2020
+08:28:42.198 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:42.326 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:42.326 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:42.419 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+08:28:42.419 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:42.506 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+08:28:42.506 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:42.599 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+08:28:42.689 [main] INFO  com.goibibo.utils.ActionsClass - Selected : B
+08:28:43.074 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:43.229 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:45.085 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+08:28:45.116 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 54,790
+08:28:45.127 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 62,821
+08:28:45.138 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 62,821
+08:28:45.358 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:45.387 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+08:28:45.414 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Sunday, 01 Nov 2020
+08:28:45.432 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+08:28:45.440 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+08:28:45.440 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+08:28:45.985 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking round trip
+08:28:46.277 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:46.278 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking source text field
+08:28:46.279 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:46.580 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+08:28:46.581 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting source
+08:28:46.854 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking destination
+08:28:46.854 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:46.955 [main] INFO  com.goibibo.utils.ActionsClass - Goa entered
+08:28:46.955 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting destination
+08:28:47.207 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking departure date field
+08:28:47.332 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:47.332 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 05-April-2021
+08:28:47.333 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:28:47.360 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:28:47.482 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:47.500 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:28:47.602 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:47.618 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : November 2020
+08:28:47.712 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:47.728 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : December 2020
+08:28:47.818 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:47.835 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : January 2021
+08:28:47.860 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : January 2021
+08:28:47.968 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:47.985 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : February 2021
+08:28:48.080 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:48.098 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : March 2021
+08:28:48.202 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:48.217 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+08:28:48.343 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:48.343 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 08-May-2021
+08:28:48.344 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:28:48.365 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+08:28:48.392 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+08:28:48.508 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:48.525 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : May 2021
+08:28:48.614 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:48.704 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:48.704 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:48.810 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+08:28:48.810 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:48.901 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+08:28:48.901 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:48.992 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+08:28:49.051 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+08:28:49.427 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:49.585 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:56.573 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+08:28:56.814 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:56.836 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+08:28:56.874 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Goa Monday, 05 Apr 2021
+08:28:56.895 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Goa - Hyderabad Saturday, 08 May 2021
+08:28:56.900 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+08:28:56.908 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+08:28:56.909 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+08:28:57.334 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking multi city
+08:28:57.690 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:58.009 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:58.276 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:58.369 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:58.377 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:58.417 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:28:58.424 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:58.470 [main] INFO  com.goibibo.utils.ActionsClass - Cuddapah entered
+08:28:59.121 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:59.129 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:59.168 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:28:59.174 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:59.222 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+08:28:59.856 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:28:59.865 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:59.914 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:28:59.926 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:28:59.967 [main] INFO  com.goibibo.utils.ActionsClass - Kolkata entered
+08:29:02.228 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:02.285 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+08:29:03.851 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:05.549 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:05.607 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+08:29:07.178 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:08.865 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:08.928 [main] INFO  com.goibibo.utils.ActionsClass - Bhubaneswar entered
+08:29:10.498 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:10.573 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 16-October-2020
+08:29:10.573 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:10.595 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:29:10.608 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:29:10.707 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:10.724 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:10.795 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:10.858 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 17-October-2020
+08:29:10.858 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:10.876 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:10.889 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:10.969 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:11.049 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 18-October-2020
+08:29:11.050 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:11.070 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:11.084 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:11.161 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:11.247 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:11.247 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:11.329 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+08:29:11.329 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:11.398 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+08:29:11.398 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:11.478 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+08:29:11.527 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+08:29:11.618 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:11.726 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:14.165 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+08:29:14.330 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:14.354 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+08:29:14.401 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Cuddapah Friday, 16 Oct 2020
+08:29:14.412 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Saturday, 17 Oct 2020
+08:29:14.422 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Bhubaneswar - Kolkata Sunday, 18 Oct 2020
+08:29:14.427 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+08:29:14.436 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+08:29:14.436 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+08:29:14.826 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking multi city
+08:29:15.081 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:15.254 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:15.385 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:15.671 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:15.767 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:15.772 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:15.810 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:29:15.819 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:15.857 [main] INFO  com.goibibo.utils.ActionsClass - Cuddapah entered
+08:29:16.518 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:16.528 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:16.568 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:29:16.576 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:16.623 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+08:29:17.269 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:17.281 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:17.323 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:29:17.335 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:17.384 [main] INFO  com.goibibo.utils.ActionsClass - Kolkata entered
+08:29:18.024 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:18.030 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:18.069 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+08:29:18.076 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:18.118 [main] INFO  com.goibibo.utils.ActionsClass - Pune entered
+08:29:20.365 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:20.424 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+08:29:21.993 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:23.690 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:23.757 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+08:29:25.326 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:27.033 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:27.098 [main] INFO  com.goibibo.utils.ActionsClass - Bhubaneswar entered
+08:29:28.676 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:30.374 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:30.423 [main] INFO  com.goibibo.utils.ActionsClass - Mumbai entered
+08:29:31.995 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.071 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 16-October-2020
+08:29:32.072 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:32.095 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:29:32.109 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : September 2020
+08:29:32.221 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.240 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.322 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.385 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 17-October-2020
+08:29:32.385 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:32.402 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.414 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.481 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.542 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 18-October-2020
+08:29:32.543 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:32.562 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.573 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.644 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.714 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 19-October-2020
+08:29:32.715 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+08:29:32.733 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.747 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+08:29:32.833 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.913 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:32.913 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:32.998 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+08:29:32.998 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:33.078 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+08:29:33.078 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+08:29:33.167 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+08:29:33.223 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+08:29:33.311 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:33.430 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:34.937 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+08:29:35.142 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+08:29:35.156 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+08:29:35.190 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Cuddapah Friday, 16 Oct 2020
+08:29:35.201 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Saturday, 17 Oct 2020
+08:29:35.213 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Bhubaneswar - Kolkata Sunday, 18 Oct 2020
+08:29:35.224 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Mumbai - Pune Monday, 19 Oct 2020
+13:15:38.877 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+13:15:38.896 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+13:15:51.767 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+13:15:51.768 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+13:15:57.875 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking one way button
+13:15:58.928 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:15:58.929 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking source text field
+13:15:58.930 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:15:59.155 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+13:15:59.156 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting source
+13:15:59.422 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking destination
+13:15:59.422 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:15:59.608 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+13:15:59.608 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting destination
+13:16:00.071 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking departure date field
+13:16:00.317 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:00.317 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 01-November-2020
+13:16:00.324 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:16:00.379 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:00.432 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:00.672 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:00.769 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : November 2020
+13:16:00.948 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:01.114 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:01.114 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:01.276 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+13:16:01.276 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:01.432 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+13:16:01.433 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:01.588 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+13:16:01.766 [main] INFO  com.goibibo.utils.ActionsClass - Selected : B
+13:16:01.936 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:02.233 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:04.214 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+13:16:04.270 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 54,817
+13:16:04.305 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 62,848
+13:16:04.334 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 62,848
+13:16:04.751 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:04.803 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+13:16:04.844 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Sunday, 01 Nov 2020
+13:16:04.877 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+13:16:04.891 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+13:16:04.892 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+13:16:05.665 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking round trip
+13:16:06.134 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:06.136 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking source text field
+13:16:06.136 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:06.642 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+13:16:06.644 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting source
+13:16:07.117 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking destination
+13:16:07.118 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:07.379 [main] INFO  com.goibibo.utils.ActionsClass - Goa entered
+13:16:07.379 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting destination
+13:16:07.779 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking departure date field
+13:16:07.999 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:07.999 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 05-April-2021
+13:16:08.000 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:16:08.044 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:08.305 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:08.355 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : November 2020
+13:16:08.695 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:08.735 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : December 2020
+13:16:09.049 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:09.080 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : January 2021
+13:16:09.112 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : January 2021
+13:16:09.309 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:09.338 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : February 2021
+13:16:09.523 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:09.552 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : March 2021
+13:16:09.822 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:09.871 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+13:16:10.130 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:10.130 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 08-May-2021
+13:16:10.131 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:16:10.170 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+13:16:10.201 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+13:16:10.425 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:10.452 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : May 2021
+13:16:10.626 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:10.855 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:10.856 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:11.117 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+13:16:11.118 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:11.383 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+13:16:11.383 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:11.657 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+13:16:11.764 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+13:16:11.960 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:12.425 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:22.480 [main] INFO  stepDefinitions.GoIbiboSteps - Navigation to bookings page failed
+13:16:22.529 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+13:16:22.616 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+13:16:22.617 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+13:16:23.336 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking multi city
+13:16:24.576 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:24.994 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:25.743 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:26.099 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:26.124 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:26.280 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:26.303 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:26.466 [main] INFO  com.goibibo.utils.ActionsClass - Cuddapah entered
+13:16:27.286 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:27.301 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:27.384 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:27.398 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:27.535 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+13:16:28.505 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:28.522 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:28.607 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:28.623 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:28.724 [main] INFO  com.goibibo.utils.ActionsClass - Kolkata entered
+13:16:31.382 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:31.594 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+13:16:33.215 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:34.983 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:35.085 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+13:16:36.825 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:38.742 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:38.959 [main] INFO  com.goibibo.utils.ActionsClass - Bhubaneswar entered
+13:16:40.729 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:40.912 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 16-October-2020
+13:16:40.913 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:16:40.952 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:40.981 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:41.164 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:41.394 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 17-October-2020
+13:16:41.397 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:16:41.463 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:41.547 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:41.796 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:42.019 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 18-October-2020
+13:16:42.020 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:16:42.078 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:42.152 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:16:42.345 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:42.576 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:42.582 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:42.833 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+13:16:42.833 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:43.021 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+13:16:43.021 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:43.220 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+13:16:43.376 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+13:16:43.561 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:43.805 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:46.591 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+13:16:47.062 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:47.084 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+13:16:47.147 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Cuddapah Friday, 16 Oct 2020
+13:16:47.170 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Saturday, 17 Oct 2020
+13:16:47.191 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Bhubaneswar - Kolkata Sunday, 18 Oct 2020
+13:16:47.202 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+13:16:47.212 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+13:16:47.213 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+13:16:47.968 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking multi city
+13:16:48.831 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:49.024 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:50.035 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:50.447 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:50.774 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:50.800 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:50.955 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:50.980 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:51.154 [main] INFO  com.goibibo.utils.ActionsClass - Cuddapah entered
+13:16:52.029 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:52.039 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:52.109 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:52.123 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:52.220 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+13:16:53.129 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:53.142 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:53.226 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:53.240 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:53.379 [main] INFO  com.goibibo.utils.ActionsClass - Kolkata entered
+13:16:54.343 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:16:54.369 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:54.509 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+13:16:54.532 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:54.660 [main] INFO  com.goibibo.utils.ActionsClass - Pune entered
+13:16:57.302 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:16:57.424 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+13:16:59.108 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:00.967 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:17:01.171 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+13:17:02.907 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:04.817 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:17:05.023 [main] INFO  com.goibibo.utils.ActionsClass - Bhubaneswar entered
+13:17:06.747 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:08.629 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:17:08.727 [main] INFO  com.goibibo.utils.ActionsClass - Mumbai entered
+13:17:10.454 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:10.714 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 16-October-2020
+13:17:10.717 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:17:10.783 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:10.830 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:11.100 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:11.348 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 17-October-2020
+13:17:11.349 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:17:11.402 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:11.423 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:11.642 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:11.784 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 18-October-2020
+13:17:11.785 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:17:11.822 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:11.848 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:12.008 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:12.216 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 19-October-2020
+13:17:12.218 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+13:17:12.278 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:12.355 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+13:17:12.602 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:12.844 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:12.844 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:17:13.063 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+13:17:13.063 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:17:13.306 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+13:17:13.307 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+13:17:13.564 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+13:17:13.723 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+13:17:14.017 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:14.302 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:16.184 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+13:17:16.691 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+13:17:16.709 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+13:17:16.764 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Cuddapah Friday, 16 Oct 2020
+13:17:16.786 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Saturday, 17 Oct 2020
+13:17:16.811 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Bhubaneswar - Kolkata Sunday, 18 Oct 2020
+13:17:16.835 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Mumbai - Pune Monday, 19 Oct 2020
+22:57:15.793 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+22:57:15.809 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+22:57:22.364 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+22:57:22.366 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+22:57:27.784 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking one way button
+22:57:28.318 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:28.321 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking source text field
+22:57:28.322 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:28.997 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+22:57:28.997 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting source
+22:57:29.351 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking destination
+22:57:29.352 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:29.566 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+22:57:29.566 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting destination
+22:57:29.892 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking departure date field
+22:57:30.293 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:30.294 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 01-November-2020
+22:57:30.313 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:57:30.434 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:57:30.496 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:57:30.924 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:30.953 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : November 2020
+22:57:31.185 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:31.527 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:31.528 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:31.750 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+22:57:31.751 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:31.902 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+22:57:31.902 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:32.162 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+22:57:32.505 [main] INFO  com.goibibo.utils.ActionsClass - Selected : B
+22:57:32.928 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:33.370 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:34.575 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+22:57:34.821 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 54,817
+22:57:34.848 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 62,848
+22:57:34.876 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : 62,848
+22:57:35.698 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:35.715 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+22:57:35.755 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Sunday, 01 Nov 2020
+22:57:35.796 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+22:57:35.811 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+22:57:35.812 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+22:57:36.977 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking round trip
+22:57:37.548 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:37.549 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking source text field
+22:57:37.549 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:38.078 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+22:57:38.079 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting source
+22:57:38.387 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking destination
+22:57:38.388 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:38.693 [main] INFO  com.goibibo.utils.ActionsClass - Goa entered
+22:57:38.694 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting destination
+22:57:39.082 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking departure date field
+22:57:39.318 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:39.319 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 05-April-2021
+22:57:39.320 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:57:39.362 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:57:39.708 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:39.753 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : November 2020
+22:57:40.039 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:40.064 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : December 2020
+22:57:40.299 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:40.344 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : January 2021
+22:57:40.397 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : January 2021
+22:57:40.670 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:40.714 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : February 2021
+22:57:40.990 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:41.018 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : March 2021
+22:57:41.153 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:41.183 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+22:57:41.378 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:41.379 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 08-May-2021
+22:57:41.380 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:57:41.419 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+22:57:41.448 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : April 2021
+22:57:41.793 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:41.836 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : May 2021
+22:57:42.051 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:42.268 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:42.268 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:42.480 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+22:57:42.480 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:42.648 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+22:57:42.649 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:42.867 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+22:57:43.009 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+22:57:43.223 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:43.734 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:45.650 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+22:57:46.320 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:46.549 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+22:57:47.123 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Goa Monday, 05 Apr 2021
+22:57:47.182 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Goa - Hyderabad Saturday, 08 May 2021
+22:57:47.192 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+22:57:47.206 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+22:57:47.207 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+22:57:47.992 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking multi city
+22:57:48.799 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:49.364 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:49.714 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:50.039 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:50.055 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:50.144 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:57:50.161 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:50.266 [main] INFO  com.goibibo.utils.ActionsClass - Cuddapah entered
+22:57:51.083 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:51.096 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:51.179 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:57:51.197 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:51.329 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+22:57:52.339 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:52.363 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:52.518 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:57:52.546 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:52.657 [main] INFO  com.goibibo.utils.ActionsClass - Kolkata entered
+22:57:55.156 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:55.366 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+22:57:57.102 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:57:59.035 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:57:59.248 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+22:58:00.907 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:02.743 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:02.912 [main] INFO  com.goibibo.utils.ActionsClass - Bhubaneswar entered
+22:58:04.713 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:05.024 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 16-October-2020
+22:58:05.026 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:05.095 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:05.150 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:05.423 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:05.700 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 17-October-2020
+22:58:05.702 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:05.767 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:05.819 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:05.951 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:06.100 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 18-October-2020
+22:58:06.100 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:06.136 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:06.170 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:06.479 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:06.770 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:06.770 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:07.068 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+22:58:07.069 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:07.227 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+22:58:07.227 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:07.403 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+22:58:07.485 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+22:58:07.650 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:07.881 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:08.772 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+22:58:09.165 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:09.240 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+22:58:09.667 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Cuddapah Friday, 16 Oct 2020
+22:58:09.701 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Saturday, 17 Oct 2020
+22:58:10.219 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Bhubaneswar - Kolkata Sunday, 18 Oct 2020
+22:58:10.233 [main] INFO  stepDefinitions.Hooks - Creating driver in before hook
+22:58:10.326 [main] INFO  com.goibibo.utils.ConfigFileReader - configFileReader object created
+22:58:10.327 [main] INFO  com.goibibo.utils.ActionsClass - Navigating to: https://www.goibibo.com/
+22:58:10.435 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Clicking multi city
+22:58:11.879 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:12.709 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:12.999 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:13.354 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:13.606 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:13.617 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:13.696 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:58:13.717 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:13.884 [main] INFO  com.goibibo.utils.ActionsClass - Cuddapah entered
+22:58:14.887 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:14.910 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:15.068 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:58:15.090 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:15.266 [main] INFO  com.goibibo.utils.ActionsClass - Chennai entered
+22:58:16.335 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:16.361 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:16.508 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:58:16.528 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:16.689 [main] INFO  com.goibibo.utils.ActionsClass - Kolkata entered
+22:58:17.595 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:17.611 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:17.699 [main] INFO  com.goibibo.utils.ActionsClass -  entered
+22:58:17.713 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:17.796 [main] INFO  com.goibibo.utils.ActionsClass - Pune entered
+22:58:20.284 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:20.489 [main] INFO  com.goibibo.utils.ActionsClass - Hyderabad entered
+22:58:22.259 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:24.190 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:24.400 [main] INFO  com.goibibo.utils.ActionsClass - Vijayawada entered
+22:58:26.141 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:28.107 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:28.324 [main] INFO  com.goibibo.utils.ActionsClass - Bhubaneswar entered
+22:58:30.026 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:31.911 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:32.075 [main] INFO  com.goibibo.utils.ActionsClass - Mumbai entered
+22:58:33.832 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:34.131 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 16-October-2020
+22:58:34.133 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:34.176 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:34.204 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:34.352 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:34.494 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 17-October-2020
+22:58:34.495 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:34.532 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:34.558 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:34.706 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:34.923 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 18-October-2020
+22:58:34.924 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:34.962 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:34.989 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:35.320 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:35.517 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Selecting date : 19-October-2020
+22:58:35.518 [main] INFO  com.goibibo.pageObjects.HomePageObjects - Date is selectable
+22:58:35.556 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:35.585 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : October 2020
+22:58:35.747 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:35.939 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:35.939 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:36.226 [main] INFO  com.goibibo.utils.ActionsClass - 2 entered
+22:58:36.227 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:36.501 [main] INFO  com.goibibo.utils.ActionsClass - 1 entered
+22:58:36.501 [main] INFO  com.goibibo.utils.ActionsClass - Clearing text
+22:58:36.743 [main] INFO  com.goibibo.utils.ActionsClass - 0 entered
+22:58:36.905 [main] INFO  com.goibibo.utils.ActionsClass - Selected : E
+22:58:37.183 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:37.571 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:38.692 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to bookings page
+22:58:39.390 [main] INFO  com.goibibo.utils.ActionsClass - Element Clicked
+22:58:39.406 [main] INFO  stepDefinitions.GoIbiboSteps - Navigated to review page
+22:58:39.463 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Hyderabad - Cuddapah Friday, 16 Oct 2020
+22:58:39.483 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Vijayawada - Chennai Saturday, 17 Oct 2020
+22:58:39.503 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Bhubaneswar - Kolkata Sunday, 18 Oct 2020
+22:58:39.527 [main] INFO  com.goibibo.utils.ActionsClass - Extracted text : Mumbai - Pune Monday, 19 Oct 2020
